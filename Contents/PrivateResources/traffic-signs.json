@@ -1,0 +1,369 @@
+[
+    {
+        "id": 1001,
+        "name": "Danger area",
+        "imageName": "danger-area.jpg",
+        "category": "Danger signs",
+        "description": "This traffic sign generally indicates a danger zone and is therefore often supplemented by an additional sign."
+    },
+    {
+        "id": 1002,
+        "name": "Air traffic",
+        "imageName": "air-traffic.jpg",
+        "category": "Danger signs"
+    },
+    {
+        "id": 1003,
+        "name": "Crosswalk",
+        "imageName": "crosswalk.jpg",
+        "category": "Danger signs"
+    },
+    {
+        "id": 1004,
+        "name": "Rockfall",
+        "imageName": "rockfall.jpg",
+        "category": "Danger signs"
+    },
+    {
+        "id": 1005,
+        "name": "Animals",
+        "imageName": "animals.jpg",
+        "category": "Danger signs"
+    },
+    {
+        "id": 1006,
+        "name": "Icy road",
+        "imageName": "icy-road.jpg",
+        "category": "Danger signs"
+    },
+    {
+        "id": 1007,
+        "name": "Ballast",
+        "imageName": "ballast.jpg",
+        "category": "Danger signs"
+    },
+    {
+        "id": 1008,
+        "name": "Shore",
+        "imageName": "shore.jpg",
+        "category": "Danger signs"
+    },
+    {
+        "id": 1009,
+        "name": "Slope",
+        "imageName": "slope.jpg",
+        "category": "Danger signs",
+        "description": "The higher the percentage, the steeper the slope. Caution: Your braking distance is longer than on level ground. The braking effect may decrease if you drive downhill for a long time. Select a lower gear, or a lower gear for automatic vehicles."
+    },
+    {
+        "id": 1010,
+        "name": "Ascent",
+        "imageName": "ascent.jpg",
+        "category": "Danger signs"
+    },
+    {
+        "id": 1011,
+        "name": "Uneven road",
+        "imageName": "uneven-road.jpg",
+        "category": "Danger signs"
+    },
+    {
+        "id": 1012,
+        "name": "Danger of skidding or slipping",
+        "imageName": "skidding-slipping.jpg",
+        "category": "Danger signs"
+    },
+    {
+        "id": 1013,
+        "name": "Oncoming traffic",
+        "imageName": "oncoming-traffic.jpg",
+        "category": "Danger signs",
+        "description": "This danger sign is located in places where you would not necessarily expect oncoming traffic, such as at the end of one-way streets or highways, and in construction zones."
+    },
+    {
+        "id": 1014,
+        "name": "Traffic jam",
+        "imageName": "traffic-jam.jpg",
+        "category": "Danger signs",
+        "description": "Traffic is often backed up on this stretch of road. Drive especially carefully and be ready to brake so that you do not hit the end of a traffic jam. If there is a traffic jam, turn on your hazard lights to warn following drivers."
+    },
+    {
+        "id": 1015,
+        "name": "Road works",
+        "imageName": "road-works.jpg",
+        "category": "Danger signs"
+    },
+    {
+        "id": 1016,
+        "name": "Pedestrian",
+        "imageName": "pedestrian.jpg",
+        "category": "Danger signs",
+        "description": "If you see such a traffic sign, you must expect that there will be a particularly large number of pedestrians on the route. Therefore, drive especially attentively."
+    },
+    {
+        "id": 1017,
+        "name": "Traffic lights",
+        "imageName": "traffic-lights.jpg",
+        "category": "Danger signs"
+    },
+    {
+        "id": 1018,
+        "name": "Childen",
+        "imageName": "children.jpg",
+        "category": "Danger signs"
+    },
+    {
+        "id": 1019,
+        "name": "Cyclist",
+        "imageName": "cyclist.jpg",
+        "category": "Danger signs",
+        "description": "Be especially alert at intersections, where bicyclists may cross your lane. Also be especially careful when turning: there could be a cyclist in your blind spot."
+    },
+    {
+        "id": 1020,
+        "name": "Deer crossing",
+        "imageName": "deer-crossing.jpg",
+        "category": "Danger signs"
+    },
+    {
+        "id": 1021,
+        "name": "Railway crossing",
+        "imageName": "railway-crossing.jpg",
+        "category": "Danger signs"
+    },
+    {
+        "id": 1022,
+        "name": "Give way",
+        "imageName": "give-way.jpg",
+        "category": "Regulation signs",
+        "description": "The mandatory sign tells you that you must give way to traffic on the intersecting road. You may not stop up to 10 meters in front of the traffic sign if you would otherwise obscure it."
+    },
+    {
+        "id": 1023,
+        "name": "Stop and give way",
+        "imageName": "stop-give-way.jpg",
+        "category": "Regulation signs",
+        "description": "This mandatory sign is commonly known as a stop sign. You must come to a complete stop here in any case, even if no vehicles want to pass on the right-of-way. Stop at the stop line. If there is no stop line, you drive forward until you can see the other road. This is called the line of sight. You may not stop up to 10 meters in front of the traffic sign if you would otherwise obscure it."
+    },
+    {
+        "id": 1024,
+        "name": "Priority of oncoming traffic",
+        "imageName": "priority-oncoming.jpg",
+        "category": "Regulation signs",
+        "description": "This traffic sign is usually placed at places where you cannot pass at the same time as oncoming traffic. Here you have to let the oncoming traffic pass first."
+    },
+    {
+        "id": 1025,
+        "name": "Direction right",
+        "imageName": "direction-right.jpg",
+        "category": "Regulation signs",
+        "description": "After this traffic sign you have to turn right. You must still signal."
+    },
+    {
+        "id": 1026,
+        "name": "Direction straight ahead",
+        "imageName": "direction-straight-ahead.jpg",
+        "category": "Regulation signs"
+    },
+    {
+        "id": 1027,
+        "name": "Traffic circle",
+        "imageName": "traffic-circle.jpg",
+        "category": "Regulation signs"
+    },
+    {
+        "id": 1028,
+        "name": "Bus stop",
+        "imageName": "bus-stop.jpg",
+        "category": "Regulation signs"
+    },
+    {
+        "id": 1029,
+        "name": "Bicycle path",
+        "imageName": "bicycle-path.jpg",
+        "category": "Regulation signs",
+        "description": "Cyclists must use this road. If an additional sign allows you to drive on this road, you must still drive at a reduced speed and show special consideration for cyclists."
+    },
+    {
+        "id": 1030,
+        "name": "Footpath",
+        "imageName": "footpath.jpg",
+        "category": "Regulation signs"
+    },
+    {
+        "id": 1031,
+        "name": "Common foot and bicycle path",
+        "imageName": "common-foot-bicycle-path.jpg",
+        "category": "Regulation signs",
+        "description": "The special path is shared by pedestrians and cyclists. Cyclists must show consideration for pedestrians and adjust their speed."
+    },
+    {
+        "id": 1032,
+        "name": "Separate foot and bicycle path",
+        "imageName": "separate-foot-bicycle-path.jpg",
+        "category": "Regulation signs",
+        "description": "The area for pedestrians is separated from the area for cyclists by construction or markings."
+    },
+    {
+        "id": 1033,
+        "name": "Prohibition for all vehicles",
+        "imageName": "prohibition-all-vehicles.jpg",
+        "category": "Regulation signs",
+        "description": "The ban does not apply to animals or hand vehicles. Motorcycles, bicycles and personal transporters (Segways and co.) are only allowed if you push them."
+    },
+    {
+        "id": 1034,
+        "name": "Prohibition for motor vehicles",
+        "imageName": "prohibition-motor-vehicles.jpg",
+        "category": "Regulation signs"
+    },
+    {
+        "id": 1035,
+        "name": "Prohibition for bycicles",
+        "imageName": "prohibition-bycicles.jpg",
+        "category": "Regulation signs",
+        "description": "Cyclists are not allowed to ride here."
+    },
+    {
+        "id": 1036,
+        "name": "Prohibition for motorcycles",
+        "imageName": "prohibition-motorcycles.jpg",
+        "category": "Regulation signs"
+    },
+    {
+        "id": 1037,
+        "name": "Prohibition for mopeds",
+        "imageName": "prohibition-mopeds.jpg",
+        "category": "Regulation signs"
+    },
+    {
+        "id": 1038,
+        "name": "Prohibition for riders",
+        "imageName": "prohibition-riders.jpg",
+        "category": "Regulation signs"
+    },
+    {
+        "id": 1039,
+        "name": "Prohibition for pedestrians",
+        "imageName": "prohibition-pedestrians.jpg",
+        "category": "Regulation signs"
+    },
+    {
+        "id": 1040,
+        "name": "Prohibition of entry",
+        "imageName": "prohibition-entry.jpg",
+        "category": "Regulation signs",
+        "description": "You are not allowed to enter this street. However, keep in mind that vehicles can still come out of this street, because this traffic sign is often placed at the end of one-way streets, for example."
+    },
+    {
+        "id": 1041,
+        "name": "Maximum speed",
+        "imageName": "maximum-speed.jpg",
+        "category": "Regulation signs",
+        "description": "This prohibition sign forbids you to drive faster than the indicated speed limit."
+    },
+    {
+        "id": 1042,
+        "name": "Begin speed 30 zone",
+        "imageName": "begin-speed-30-zone.jpg",
+        "category": "Regulation signs",
+        "description": "You may not drive faster than the posted speed limit within the entire zone."
+    },
+    {
+        "id": 1043,
+        "name": "End speed 30 zone",
+        "imageName": "end-speed-30-zone.jpg",
+        "category": "Regulation signs"
+    },
+    {
+        "id": 1044,
+        "name": "Absolute no parking",
+        "imageName": "absolute-no-parking.jpg",
+        "category": "Regulation signs",
+        "description": "Here you are not allowed to park or stop on the roadway."
+    },
+    {
+        "id": 1045,
+        "name": "Restricted parking",
+        "imageName": "no-parking.jpg",
+        "category": "Regulation signs",
+        "description": "Here you may not stop on the roadway for more than 3 minutes. Exception: You are letting someone in or out or loading or unloading your car. However, you must still carry out loading operations quickly."
+    },
+    {
+        "id": 1046,
+        "name": "End of all speed limits",
+        "imageName": "end-all-speed-limits.jpg",
+        "category": "Regulation signs",
+        "description": "This sign marks the end of all route-related speed limits and overtaking bans."
+    },
+
+    {
+        "id": 1047,
+        "name": "Right of way at next intersection",
+        "imageName": "right-of-way-next-intersection.jpg",
+        "category": "Indicators",
+        "description": "This directional sign indicates that you have the right of way at the next intersection."
+    },
+    {
+        "id": 1048,
+        "name": "Begin right of way road",
+        "imageName": "begin-right-of-way-road.jpg",
+        "category": "Indicators",
+        "description": "The direction sign gives you the right of way until one of the following traffic signs ends it: 'Give way', 'Stop. Give way' or 'End of right of way'."
+    },
+    {
+        "id": 1049,
+        "name": "End right of way road",
+        "imageName": "end-right-of-way-road.jpg",
+        "category": "Indicators"
+    },
+    {
+        "id": 1050,
+        "name": "Priority over oncoming traffic",
+        "imageName": "priority-oncoming-traffic.jpg",
+        "category": "Indicators",
+        "description": "This traffic sign is usually placed at places where you cannot pass at the same time as oncoming traffic. Here, the oncoming traffic must let you pass first."
+    },
+    {
+        "id": 1051,
+        "name": "Parking lot",
+        "imageName": "parking-lot.jpg",
+        "category": "Indicators",
+        "description": "This direction sign indicates that you are allowed to park here. The parking permit may be restricted by additional signs (e.g. for certain types of vehicles, for a certain duration or parking is only permitted with a parking ticket or parking disc). Remember to display your parking ticket or parking disc legibly."
+    },
+    {
+        "id": 1052,
+        "name": "Highway",
+        "imageName": "highway.jpg",
+        "category": "Indicators",
+        "description": "This directional sign is located at freeway access roads. From here on, the rules for traffic on highways apply."
+    },
+    {
+        "id": 1053,
+        "name": "Tunnel",
+        "imageName": "tunnel.jpg",
+        "category": "Indicators",
+        "description": "This traffic sign indicates a tunnel entrance. You must drive with dipped headlights in the tunnel and are not allowed to turn around. If you have an emergency or breakdown, be sure to use the emergency stop and breakdown bays."
+    },
+    {
+        "id": 1054,
+        "name": "Begin traffic-calmed road",
+        "imageName": "begin-traffic-calmed.jpg",
+        "category": "Indicators",
+        "description": "In a traffic-calmed area, the traffic area is shared by all road users. You must drive at walking speed here (4-7 km/h) and show special consideration for pedestrians. Attention: Children are allowed to play on the roadway here!"
+    },
+    {
+        "id": 1055,
+        "name": "Emergency bay",
+        "imageName": "emergency-bay.jpg",
+        "category": "Indicators",
+        "description": "This sign indicates an emergency stop or breakdown bay. You may only stop here if you have an emergency or breakdown."
+    },
+    {
+        "id": 1056,
+        "name": "Dead end",
+        "imageName": "dead-end.jpg",
+        "category": "Indicators",
+        "description": "The road ends in a dead end. Appropriate symbols in the upper part of the sign may indicate that the road is passable for pedestrians and/or cyclists."
+    }
+]
